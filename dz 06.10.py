@@ -18,4 +18,4 @@ for check in input:
         plus = plus + check
 print("Список чисел: ", input)
 
-print(minus, plus)
+print("суммы чисел:", minus, plus)
